@@ -1,0 +1,6 @@
+pandas
+matplotlib
+tensorflow
+pickle
+scikit-learn
+notebook
